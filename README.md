@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abi-ava
+- 👋 Hi, I’m Abiola
 - 👀 I’m interested in DevOps and SRE
 - 🌱 I’m currently learning IaC
 - 💞️ I’m looking to collaborate on DevOps projects
